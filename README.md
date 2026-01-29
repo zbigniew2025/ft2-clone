@@ -43,4 +43,4 @@ My first priority is to make an accurate clone, and not to make flexible and eas
 
 Big parts of the code (except GUI) are directly ported from the original FT2 source code, with permission to use a BSD 3-Clause license.
 
-To install it on openBSD use ./install_openBSD.sh script
+To install it on openBSD use ./install_openBSD.sh script and first install needed packages: doas pkg_add sdl2 libiconv 
